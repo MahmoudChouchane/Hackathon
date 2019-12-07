@@ -1,0 +1,23 @@
+
+.project_title{
+    padding-top:4%;
+    margin-bottom:3%;
+    font-size: 40px;
+    color:rgb(255, 1, 1);
+  }
+.project-subtitle{
+    margin-top:35px;
+    color:rgb(0, 0, 0);
+    font:
+}
+.style-grids {
+    height: 500px;
+    overflow: hidden;
+  }
+  .style-grids img {
+    transition: transform 8000ms;
+  }
+  .style-grids:hover  img  {
+    transform:translateY(calc(-100% + 500px));
+    opacity: 0.254;
+  }
